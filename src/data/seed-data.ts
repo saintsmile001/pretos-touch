@@ -102,11 +102,11 @@ export const initialProducts: Product[] = [
     collectionIds: ['col-best-sellers', 'col-new-mothers'],
     brand: 'Pretos Touch',
     price: {
-      amount: 15000,
+      amount: 20000,
       currency: 'NGN',
     },
     compareAtPrice: {
-      amount: 25000,
+      amount: 35000,
       currency: 'NGN',
     },
     sku: 'PT-PB-001',
